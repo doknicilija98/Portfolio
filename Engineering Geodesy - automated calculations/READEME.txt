@@ -1,0 +1,1 @@
+Kodovi u ovom fajlu predstavljaju automatizaciju rešavanja geodetskih zadataka. Geodetski zadaci uklju?uju mnogo koraka i kompleksnu ra?unicu te automatizacija zahteva dobro poznavanje numeri?kog programiranje
